@@ -43,7 +43,7 @@
     "grunt-concat-sourcemap": "~0.2",
     "source-map-support": "~0.1",
     "grunt-markdown": "~0.3.0",
-    "grunt-component": "~0.1.4",
+    "grunt-component": "~0.0.6",
     "grunt-push-release": "~0.1.1",
     "grunt-regex-replace": "~0.2.5"
   },
@@ -51,8 +51,7 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "grunt test",
-    "prepublish": "grunt prepublish"
+    "test": "grunt test"
   },
   "bugs": {
     "url": "https://github.com/geosolutions-it/tv4/issues"

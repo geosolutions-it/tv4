@@ -2,6 +2,7 @@
 This repo has been forked because we needed to add [this](https://github.com/geosolutions-it/tv4/tree/471b605366e278397840443c0efadd9006033e6c) fix
 We are going to publish the **release** branch on npm GeoSolutions registry
 
+This lib is used [here](https://github.com/geosolutions-it/jsdoc/blob/fix_acorn_jsx/package.json#L35)
 
 # Tiny Validator (for v4 JSON Schema)
 

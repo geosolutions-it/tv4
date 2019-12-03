@@ -1,3 +1,9 @@
+# Fork info
+This repo has been forked because we needed to add [this](https://github.com/geosolutions-it/tv4/tree/471b605366e278397840443c0efadd9006033e6c) fix
+We are going to publish the **release** branch on npm GeoSolutions registry
+
+This lib is used [here](https://github.com/geosolutions-it/jsdoc/blob/fix_acorn_jsx/package.json#L35)
+
 # Tiny Validator (for v4 JSON Schema)
 
 [![Build Status](https://secure.travis-ci.org/geraintluff/tv4.png?branch=master)](http://travis-ci.org/geraintluff/tv4) [![Dependency Status](https://gemnasium.com/geraintluff/tv4.png)](https://gemnasium.com/geraintluff/tv4) [![NPM version](https://badge.fury.io/js/tv4.png)](http://badge.fury.io/js/tv4)

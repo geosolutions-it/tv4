@@ -1,6 +1,6 @@
 {
-  "name": "tv4",
-  "version": "1.0.15",
+  "name": "@geosolutions/tv4",
+  "version": "1.0.16",
   "author": "Geraint Luff",
   "description": "A public domain JSON Schema validator for JavaScript",
   "keywords": [
@@ -10,16 +10,12 @@
     "tv4"
   ],
   "maintainers": [
-    {
-      "name": "Geraint Luff",
-      "email": "luffgd@gmail.com",
-      "web": "https://github.com/geraintluff/"
-    }
+    "Geraint Luff <luffgd@gmail.com> (https://github.com/geraintluff/)"
   ],
   "main": "tv4.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geraintluff/tv4.git"
+    "url": "git+https://github.com/geosolutions-it/tv4.git"
   },
   "license:": [
     {
@@ -47,7 +43,7 @@
     "grunt-concat-sourcemap": "~0.2",
     "source-map-support": "~0.1",
     "grunt-markdown": "~0.3.0",
-    "grunt-component": "~0.1.4",
+    "grunt-component": "~0.0.6",
     "grunt-push-release": "~0.1.1",
     "grunt-regex-replace": "~0.2.5"
   },
@@ -55,7 +51,15 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "grunt test",
-    "prepublish": "grunt prepublish"
-  }
+    "test": "grunt test"
+  },
+  "bugs": {
+    "url": "https://github.com/geosolutions-it/tv4/issues"
+  },
+  "homepage": "https://github.com/geosolutions-it/tv4#readme",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "license": "ISC"
 }
